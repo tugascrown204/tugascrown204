@@ -30,3 +30,4 @@ Telegram: [https://t.me/tugascrown204](https://t.me/tugascrown204)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugascrown204&layout=compact&theme=github_dark" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=tugascrown204&show_icons=true&theme=github_dark" height="130"/></p>
 <p><img src="https://streak-stats.demolab.com/?user=tugascrown204&theme=github_dark" height="150"/></p>
+
