@@ -1,36 +1,19 @@
-# Welcome to my GitHub! 🎮
+# 🌥️ Tugas Crown's Dev Hub
+![Profile Views](https://komarev.com/ghpvc/?username=tugascrown204&label=Profile%20Views&color=blue&style=flat)
 
-## 🎮 About Me
-Hello! I'm **tugascrown204**, a game developer thrilled about crafting interactive adventures. My journey in game development has been colorful and vibrant, just like my favorite pastel palette!
+## 🚀 Highlights
+- 💡 Cloud Computing Advocate
+- 🖥️ Open Source Contributor
+- 🌐 Tech Community Enthusiast
 
-## 🔍 Focus
-- **Game Design**: Level design, character development, and storytelling.
-- **Prototyping**: Rapid prototyping of game concepts and mechanics.
-- **Collaboration**: Working with artists, sound designers, and other developers.
+## ⚙️ Toolkit
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)](https://www.docker.com/)
 
-## ⚙️ Tech Stack
-| Language    | Frameworks/Tools   |
-|-------------|---------------------|
-| C#         | Unity               |
-| JavaScript | Phaser              |
-| Python     | Pygame              |
-| GDScript   | Godot               |
+## 🔗 Contact
+- GitHub Profile: [tugascrown204](https://github.com/tugascrown204)
+- Telegram: [@tugascrown204](https://t.me/tugascrown204)
 
-## 🛠️ Projects
-### 🌟 Notable Works
-- **AdventureQuest**: A fantasy role-playing game with rich lore.
-- **PixelBashers**: A fast-paced platformer with pixel art aesthetics.
-- **RoboRun**: A thrilling endless runner featuring robots and power-ups.
-
-## 📊 Metrics & Stats
-![Profile Views](https://komarev.com/ghpvc/?username=tugascrown204&label=Profile%20Views&color=blue&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tugascrown204&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tugascrown204&layout=compact&theme=radical)  
-![Streak Stats](https://streak-stats.demolab.com/?user=tugascrown204&theme=radical)  
-
-## 📫 Contact
-Feel free to reach out!  
-- **Twitter**: [@tugascrown204](https://twitter.com/tugascrown204)  
-- **LinkedIn**: [Crown Tugasa](https://linkedin.com/in/crown-tugasa)  
-
-Thank you for visiting my profile! Let's create something amazing together! 🚀
+<!--fp:1755006511-5010:tugascrown204:cloud-platforms:de-->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugascrown204&layout=compact&theme=radical" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=tugascrown204&show_icons=true&theme=radical" height="130"/></p>
