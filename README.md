@@ -1,16 +1,20 @@
-## Hi there 👋
+![clean-code development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwZWozMWxjbmI2NWhkaG4yOGMzbGxwNW1nMTNwOHBhbWs5bG1sbjN0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K1oJhRNg8YrJCNUrSB/giphy.gif)
 
-<!--
-**tugascrown204/tugascrown204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
+Hi there! I'm Tugascrown204, a dedicated developer with a keen interest in web technologies and open source.
 
-Here are some ideas to get you started:
+# Skills
+- JavaScript
+- Python
+- HTML & CSS
+- React
+- Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+- **Project A**: A web application for task management built with React and Node.js.
+- **Project B**: An open-source library for data visualization in JavaScript.
+
+# Contacts
+- Email: tugascrown204@example.com
+- LinkedIn: [tugascrown204](https://www.linkedin.com/in/tugascrown204)
