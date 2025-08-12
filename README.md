@@ -1,20 +1,16 @@
-![clean-code development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwZWozMWxjbmI2NWhkaG4yOGMzbGxwNW1nMTNwOHBhbWs5bG1sbjN0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K1oJhRNg8YrJCNUrSB/giphy.gif)
-
 # Introduction
-Hi there! I'm Tugascrown204, a dedicated developer with a keen interest in web technologies and open source.
+Hi there! I'm Tugascrown204, a passionate developer who enjoys creating innovative solutions and contributing to open-source projects.
 
 # Skills
-- JavaScript
-- Python
-- HTML & CSS
-- React
-- Node.js
-- Git & GitHub
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Flask
+- **Tools:** Git, Docker, VS Code
 
 # Projects
-- **Project A**: A web application for task management built with React and Node.js.
-- **Project B**: An open-source library for data visualization in JavaScript.
+- **Project A:** A web application that helps users track their tasks effectively. [GitHub Link](https://github.com/tugascrown204/project-a)
+- **Project B:** An API for managing user data with authentication. [GitHub Link](https://github.com/tugascrown204/project-b)
 
 # Contacts
+Feel free to reach out to me:
 - Email: tugascrown204@example.com
-- LinkedIn: [tugascrown204](https://www.linkedin.com/in/tugascrown204)
+- LinkedIn: [linkedin.com/in/tugascrown204](https://linkedin.com/in/tugascrown204)
